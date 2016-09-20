@@ -8,6 +8,6 @@
 </head>
 <body>
 fyufhfj
-<h3>예지2입니다</h3>
+<h3>예지1입니다</h3>
 </body>
 </html>
